@@ -1,0 +1,1 @@
+<?php /* Google Drive Sync Script */ ?>
